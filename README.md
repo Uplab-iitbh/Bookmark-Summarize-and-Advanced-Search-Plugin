@@ -1,5 +1,4 @@
 # Bookmark-Summarize-and-Advanced-Search-Plugin
-# Bookmark-Summarize-and-Advanced-Search-Plugin
 
 ## Overview
 
